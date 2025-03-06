@@ -1,0 +1,11 @@
+:root{
+--cor-de-fundo:#1e1e1e;
+--azul:#002fff;
+--branco:#ffffff;
+--botao-ativo:#3a375e;
+--botao-inativo:#f70c0c;
+--texto-fundo:#fffb00;
+}
+boddy{
+    background-color: var(--cor-de-fundo);
+}
